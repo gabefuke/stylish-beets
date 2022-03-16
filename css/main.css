@@ -31,13 +31,17 @@ img {
 }
 
 p + t {
-  color:
+  font-size: 1.125rem;
 }
 
+blockquote {
+  font-size: 1.5rem;
+}
 .varieties {
   list-style-type: lower-greek;
 }
 
 footer a {
+  color: #852440;
   text-decoration: none;
 }
