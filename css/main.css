@@ -19,18 +19,19 @@ nav a {
   font-family: "PT Sans", bold;
   font-size: 1.125rem;
   color: #852440;
+  text-decoration: none;
 }
 
 nav a:hover {
   color: #3f1622;
 }
 
-nav a {
-  text-decoration: none;
-}
-
 img {
   width: 100%
+}
+
+p + t {
+  color:
 }
 
 .varieties {
