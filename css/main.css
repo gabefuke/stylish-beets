@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #c9b5ab;
+  font-family: "PT Serif", normal;
   line-height: 1.5;
 }
 
@@ -15,10 +16,14 @@ font-family: "PT Sans", bold;
 
 }
 
-nav {
+nav a {
   font-family: "PT Sans", bold;
   font-size: 1.125rem;
   color: #852440;
+}
+
+nav a:hover {
+  color: #3f1622;
 }
 
 p + time {
