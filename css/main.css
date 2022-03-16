@@ -20,3 +20,7 @@ nav {
   font-size: 1.125rem;
   color: #852440;
 }
+
+p + time {
+
+}
