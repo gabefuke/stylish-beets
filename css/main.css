@@ -10,7 +10,7 @@ html {
 }
 
 h1, h2 {
-font-family: "PT Sans", bold;
+  font-family: "PT Sans", bold;
   font-size: 1.5rem;
   color: #3f1622;
 }
@@ -25,14 +25,18 @@ nav a:hover {
   color: #3f1622;
 }
 
+nav a {
+  text-decoration: none;
+}
+
 img {
   width: 100%
 }
 
-p + time {
-
-}
-
 .varieties {
   list-style-type: lower-greek;
+}
+
+footer a {
+  text-decoration: none;
 }
